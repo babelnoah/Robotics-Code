@@ -1,26 +1,3 @@
-# ----------------------------------------------------------------------------- #
-#                                                                               #                                                                          
-#    Project:        CompCode Sharkbot 3.0 (94027A)                             #
-#    Module:         main.py                                                    #
-#    Author:         Isabel Prado-Tucker and VEX                                #
-#    Created:        Sat Jan 06 2023                                            #
-#    Description:    RoboEvents VEX Signature Event @ ICC comp program          # 
-#                    UI for auton selection, uses inertial for precision        #
-#                                                                               #                                                                         
-#    Configuration:  V5 Sharkbot                                                #
-#                    Controller                                                 #
-#                    Catapult Motor in Port 19                                  #
-#                    Catapult Motor in Port 20                                  #
-#                    Left Front Motor in Port 11                                #
-#                    Left Back Motor in Port 12                                 #
-#                    Right Front Motor in Port 13                               #
-#                    Right Back Motor in Port 14                                #
-#                    Inertial Sensor in Port 4                                  #
-#                    Wing Pneumatic 1 in Port A                                 #
-#                    Wing Pneumatic 2 in Port B                                 #
-#                                                                               #                                                                          
-# ----------------------------------------------------------------------------- #
-
 #region VEXcode Generated Robot Configuration
 from vex import *
 
